@@ -1,0 +1,119 @@
+.bg-container{
+    background-color: rgb(232, 222, 209);
+    height: 100%h;
+    background-size: cover;
+  }
+  .ab{
+    border-style: double;
+    text-shadow: 7px 7px 7px red;
+    padding: 10px;
+  }
+  .h1{
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+    text-shadow: 10px 10px 10px ;
+  }
+  .para1{
+    background-color: chocolate;
+    box-shadow: 7px 7px 7px black;
+    border-radius: 8px;
+    border-style: dotted;
+    margin: 20px;
+  }
+  .para{
+    color: black;
+    text-align: end;
+    font-weight: 500;
+  }
+  .div2{
+    background-color: darkolivegreen;
+    box-shadow: 7px 7px 7px blue;
+    border-radius: 8px;
+    border-style: dashed;
+    margin: 20px;
+  }
+  .h4{
+    color: black;
+    padding: 10px;
+    text-decoration: underline;
+  }
+  .para2{
+    color: rgb(22, 1, 1);
+    font-weight: 600;
+    margin-left: 20px;
+  }
+  .div3{
+    background-color: blueviolet;
+    box-shadow: 7px 7px 7px black;
+    border-radius: 8px;
+    border-style: dotted;
+    margin: 20px;
+  }
+  .div4{
+    background-color: gold;
+    box-shadow: 7px 7px 7px brown;
+    border-radius: 8px;
+    border-style: dashed;
+    margin: 20px;
+  }
+  #div5{
+    background-color: aquamarine;
+    box-shadow: 7px 7px 7px rgb(20, 96, 11);
+    border-radius: 8px;
+    border-style: dotted;
+    margin: 20px;
+  }
+  .div6{
+    background-color: rgb(166, 57, 57);
+    box-shadow: 7px 7px 7px black;
+    border-radius: 8px;
+    border-style: hidden;
+    margin: 20px;
+  }
+  .div7{
+    background-color: rgb(73, 110, 13);
+    box-shadow: 7px 7px 7px red;
+    border-radius: 8px;
+    border-style: groove;
+    margin: 20px;
+  }
+  .div8{
+    background-color: rgb(161, 172, 98);
+    box-shadow: 7px 7px 7px rgb(33, 209, 159);
+    border-radius: 8px;
+    border-style: double;
+    margin: 20px;
+  }
+  .div9{
+    background-color: aqua;
+    box-shadow: 7px 7px 7px black;
+    border-radius: 8px;
+    border-style: dotted;
+    margin: 20px;
+  }
+  .div10{
+    background-color: rgb(105, 128, 189);
+    box-shadow: 7px 7px 7px rgb(0, 0, 255);
+    border-radius: 8px;
+    border-style: dashed;
+    margin: 15px;
+  }
+  .div11{
+    background-color: darkgoldenrod;
+    box-shadow: 7px 7px 7px blueviolet;
+    border-radius: 8px;
+    border-style: dotted;
+    margin: 20px;
+  }
+  .center{
+    color: black;
+    font-weight: bold;
+  }
+  .para3{
+    color: black;
+    font-size:medium;
+    font-weight: bold;
+    text-align: end;
+    margin-right: 20px;
+  }
